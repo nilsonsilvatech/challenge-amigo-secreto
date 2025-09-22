@@ -21,8 +21,8 @@ Projeto Amigo Secreto – aplicação para adicionar amigos e sortear aleatoriam
 
 ## Tecnologias usadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript 
 - Git & GitHub
 
