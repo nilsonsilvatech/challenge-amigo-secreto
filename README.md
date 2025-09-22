@@ -8,6 +8,7 @@ Projeto Amigo Secreto – aplicação para adicionar amigos e sortear aleatoriam
 - Validar entradas (campo vazio e somente letras)
 - Visualizar lista de amigos
 - Sortear amigo aleatoriamente
+- Remove o amigo sorteado
 - Reiniciar sorteio
 - Interface amigável com HTML, CSS e JavaScript
 
